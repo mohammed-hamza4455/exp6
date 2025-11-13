@@ -24,6 +24,7 @@ To systematically address a UX problem (e.g., hospital appointment booking) by g
    Map user/task flows with standard symbols (start, decision, action) to visualize steps and choices.
 
 ## OUTPUT
+<img width="1183" height="878" alt="image" src="https://github.com/user-attachments/assets/b152ff60-01ae-4b97-9bdb-b8a7cb63a1ae" />
 <img width="1552" height="1184" alt="image" src="https://github.com/user-attachments/assets/24e39523-966b-4bab-a283-c16b3ec9ff64" />
 <img width="1318" height="969" alt="image" src="https://github.com/user-attachments/assets/f41bfd95-06cf-41c8-b581-e2d4be358fa2" />
 <img width="1351" height="998" alt="image" src="https://github.com/user-attachments/assets/0717bd02-24c5-4f00-b570-60a251e22712" />
